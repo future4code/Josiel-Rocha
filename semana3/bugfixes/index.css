@@ -9,11 +9,13 @@
     padding: 0;
 }
 
+
 h2 {
     background-color: #fe7e02;
     padding: 10px 5px 10px 5px;
     color: white;
     text-align: center;
+    margin-block-end: 3px;
 }
 
 input {
@@ -44,6 +46,7 @@ div img {
     border-radius: 5px;
     font-size: 20px;
     color: white;
+    
 }
 
 .botao-amarelo:hover {
@@ -58,7 +61,13 @@ div img {
 .icone {
     height: 15px;
 }
+ button:hover{
+     background-color: wheat;
+ }
 
+button:active{
+    background-color: wheat;
+}
 
 /** 
   *
@@ -114,6 +123,11 @@ td button {
     height: 100px;
 }
 
+
+img{
+    height: 80px ;    
+    right: 100px;
+}
 
 #back-button {
     background-color: white;
