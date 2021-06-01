@@ -1,0 +1,28 @@
+img{
+    width: 50px;
+    margin: 11px;
+}
+
+.fofo{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+
+h1{
+    padding: 10px 5px 10px 5px;
+    background-color: brown;
+    margin-top: 1mm;
+}
+
+.ima{
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
+
+.git{
+    width: 80px;
+    margin-right: 1px;
+}
